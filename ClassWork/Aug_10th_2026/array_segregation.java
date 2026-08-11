@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class array_segregation {
     static void main() {
         Scanner input = new Scanner(System.in);
