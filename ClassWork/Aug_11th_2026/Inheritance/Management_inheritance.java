@@ -1,5 +1,4 @@
-package ClassWork;
-
+package Inheritance;
 class Management {
     int sch_code = 1012;
     int clg_code = 1918;

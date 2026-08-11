@@ -1,5 +1,3 @@
-package ClassWork;
-
 /* Blocks -->Instant block, Static block , Local block 
 
     {

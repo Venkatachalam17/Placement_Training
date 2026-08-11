@@ -1,5 +1,4 @@
-package ClassWork;
-
+package OOPS;
 /* A class inside another class is called NEsted_class  */
 
 class person 

@@ -1,5 +1,4 @@
-package ClassWork;
-
+package Inheritance;
 interface shapes {
     void display();
 }

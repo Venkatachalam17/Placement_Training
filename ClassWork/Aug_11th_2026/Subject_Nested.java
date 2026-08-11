@@ -1,5 +1,3 @@
-package ClassWork;
-
 class subject{
 
     String name = "ADAM";
