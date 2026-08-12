@@ -1,8 +1,7 @@
-package Placement_Training.ClassWork.Aug_12th_2026.Polymorphism;
+package ClassWork.Aug_12th_2026.Polymorphism;
 
 
 /*Overloading happens in the same class usually.
-
 And it is decided during compile time. */
 
 class Calculator {
