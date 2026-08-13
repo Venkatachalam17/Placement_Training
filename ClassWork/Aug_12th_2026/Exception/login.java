@@ -26,9 +26,8 @@ class login {
 
         System.out.print("Enter password: ");
         String password = sc.nextLine();
-
+        
         login l = new login();
-
         try {
             l.checkLogin(username, password);
         }
