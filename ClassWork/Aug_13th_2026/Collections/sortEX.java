@@ -25,8 +25,8 @@ public class sortEX {
                 if (list.get(j) > list.get(j + 1)) {
                     
                     int temp = list.get(j);
-                    list.set(j, list.get(j + 1)); // Set index 'j' to the next element
-                    list.set(j + 1, temp);        // Set index 'j+1' to temp
+                    list.set(j, list.get(j + 1));
+                    list.set(j + 1, temp);       
                 }
             }
         }
